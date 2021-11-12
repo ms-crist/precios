@@ -71,7 +71,7 @@ h1 {
 #section-container {
   display: flex;
   flex-direction: row;
-  background-image: url(/img/mandala.jpg);
+  background-image: url(./img/mandala.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
